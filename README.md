@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Next.Js**
 
-- 📫 How to reach me **Hade.kary24@gmil.com**
+- 📫 How to reach me **Hade.kary24@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
