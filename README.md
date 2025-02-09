@@ -3,44 +3,89 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lato&size=22&color=016EEA&size=24&center=true&lines=Real+Programmers+can+write+;assembly+code+in+any+language!)](https://git.io/typing-svg)
 
-
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/majdimokhtar/github-images/main/rightimagemajdigithub.gif?token=GHSAT0AAAAAABUZ7SAQ6CWAJ3EWM7P3WSBUY3GNLNQ">
 
+---
 
+## 👨‍💻 About Me
+I am a **Full-Stack Software Engineer** with a strong foundation in **Computer Science** and hands-on experience in modern web and mobile development technologies. Passionate about problem-solving and continuous learning, I specialize in building scalable and dynamic applications using cutting-edge frameworks and tools.
 
+🎓 **Education**
+- **BSc in Computer Science** – MUBS University (2020 - 2024)
+- **Information Technology** – CIS College (2017 - 2019)
 
+📧 **Email:** Hade.kary24@gmail.com  
+🔗 **Portfolio:** [GitHub](https://github.com/hadialkari) | [LinkedIn](https://www.linkedin.com/in/hadialkari)
 
-- 👨‍💻 I’m a Full Stack Developer.
+---
 
-- 🌱 I’m currently learning **Next.Js**
+## 🚀 Tech Stack & Skills
 
-- 📫 How to reach me **Hade.kary24@gmail.com**
+### **Programming Languages:**
+C, C#, Java, Python
 
-<h3 align="left">Connect with me:</h3>
+### **Web Development:**
+HTML5, CSS3, Bootstrap, TailwindCSS, JavaScript, TypeScript
+
+### **Frontend & Backend Frameworks:**
+React.js, Redux, Next.js, Node.js, Express.js
+
+### **Databases:**
+MongoDB, SQL Server 
+
+### **Cloud Databases & Backend as a Service (BaaS):**
+Supabase, Firebase, Appwrite 
+
+### **Other Skills:**
+- Mobile Development (Android using Java, React Native)
+- Microsoft Office Suite (Word, Excel, PowerPoint, Access, Visio)
+- Git & Version Control
+
+---
+
+## 🏆 Notable Projects
+
+### **📌 Banking Application with Finance Dashboard**
+- Built with **Next.js 14**, real-time transactions, and multi-account integration.
+- Features include **secure peer-to-peer transfers**, interactive finance dashboards, and real-time data updates.
+- 🔗 [Source Code](https://github.com/hadialkari/Banking-App-with-Finance-Management-Dashboard)
+
+### **📌 E-Commerce Web Application**
+- MERN Stack-based online shopping platform with an admin panel.
+- Integrated **Redux Toolkit, Tailwind CSS, and MongoDB**.
+- 🔗 [Source Code](https://github.com/hadialkari/ECommerce-App-with-Admin-Panel)
+
+### **📌 Real Estate Web Application**
+- A **MERN Stack** real estate marketplace featuring **real-time chat** and **map integration**.
+- Uses **Socket.io, JWT authentication, and Prisma ORM** for robust functionality.
+- 🔗 [Source Code](https://github.com/hadialkari/SH-Estate)
+
+### **📌 Blog Application with Admin Dashboard**
+- Full-stack **blogging platform** using the MERN stack with user authentication.
+- Admin dashboard for **moderation, analytics, and content management**.
+- 🔗 [Source Code](https://github.com/hadialkari/MERN-Blog)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hadialkari&theme=tokyonight&show_icons=true&locale=en" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hadialkari&theme=tokyonight" alt="GitHub Streak" width="49%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hadialkari&show_icons=true&theme=tokyonight&layout=compact" alt="Top Languages" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hadialkari&theme=tokyonight" alt="Profile Details" width="49%"/>
+</p>
+
+---
+
+## 🌐 Connect with Me
 <p align="left">
-<a href="https://twitter.com/hadika24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hadika24" height="30" width="40" /></a>
+<a href="https://twitter.com/hadialkari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hadialkari" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hadialkari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hadialkari" height="30" width="40" /></a>
 <a href="https://instagram.com/hadialk47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hadialk47" height="30" width="40" /></a>
 </p>
 
-## My Values :
-🧠 **Thoughtful** & **Inclusive Development** <br/>
-
-💡 **Mindset of Learning** & **Curiosity** <br/>
-
-🙌 **Teamwork** & **Communication**
-
-
-
-<h3 align="left">🔧 Technologies:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-## ⚡ GitHub Stats
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hadialkari&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="hadialkari" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hadialkari&theme=tokyonight&show_icons=true&locale=en" alt="hadialkari" /></p>
-
-
-
-
+🚀 Let's build something amazing together!
