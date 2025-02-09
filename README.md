@@ -37,9 +37,9 @@
 
 ## ⚡ GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hadika47&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="hadika47" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hadialkari&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="hadialkari" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hadika47&theme=tokyonight&show_icons=true&locale=en" alt="hadika47" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hadialkari&theme=tokyonight&show_icons=true&locale=en" alt="hadialkari" /></p>
 
 
 
